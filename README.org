@@ -1,0 +1,37 @@
+
+Contributors: Jacob Alldredge
+              Daniel Craig
+
+* Ideas
+  :LOGBOOK:
+  CLOCK: [2018-05-07 Mon 22:15]
+  :END:
+
+** Alexa Skills
+*** Amazon web services
+**** Check for pricing/Free tier
+*** Skills
+**** Dictation of family history
+**** Family memory retrieval and read
+**** 
+*** Lambdas
+**** event driven code
+*** Kenesis Fire Hose
+*** Family Search APIs
+**** Authentication?
+***** Link amazon and FamilySearch?
+*** Voice Recognition
+*** TODO IMPORANT
+    - [ ] Check AWS Pricing/Free tier
+    - [ ] FamilySearch Available APIs
+    - [ ] Buy Alexa
+
+
+* Clock
+#+BEGIN: clocktable :scope file :maxlevel 2
+#+CAPTION: Clock summary at [2018-05-07 Mon 22:33]
+| Headline     | Time   |
+|--------------+--------|
+| *Total time* | *0:00* |
+#+END:
+
