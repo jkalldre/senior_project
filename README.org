@@ -4,7 +4,7 @@ Contributors: Jacob Alldredge
 
 * Ideas
   :LOGBOOK:
-  CLOCK: [2018-05-07 Mon 22:15]
+  CLOCK: [2018-05-07 Mon 22:15]--[2018-05-07 Mon 22:54] =>  0:39
   :END:
 
 ** Alexa Skills
@@ -29,9 +29,11 @@ Contributors: Jacob Alldredge
 
 * Clock
 #+BEGIN: clocktable :scope file :maxlevel 2
-#+CAPTION: Clock summary at [2018-05-07 Mon 22:33]
+#+CAPTION: Clock summary at [2018-05-07 Mon 22:54]
 | Headline     | Time   |
 |--------------+--------|
-| *Total time* | *0:00* |
+| *Total time* | *0:39* |
+|--------------+--------|
+| Ideas        | 0:39   |
 #+END:
 
