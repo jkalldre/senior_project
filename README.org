@@ -4,12 +4,15 @@ Contributors: Jacob Alldredge
 
 * Ideas
   :LOGBOOK:
+  CLOCK: [2018-05-08 Tue 19:00]--[2018-05-08 Tue 19:17] =>  0:17
   CLOCK: [2018-05-07 Mon 22:15]--[2018-05-07 Mon 22:54] =>  0:39
   :END:
 
 ** Alexa Skills
 *** Amazon web services
 **** Check for pricing/Free tier
+***** Free for the first year
+***** Free up to 5000 speech requests per month
 *** Skills
 **** Dictation of family history
 **** Family memory retrieval and read
@@ -22,18 +25,18 @@ Contributors: Jacob Alldredge
 ***** Link amazon and FamilySearch?
 *** Voice Recognition
 *** TODO IMPORANT
-    - [ ] Check AWS Pricing/Free tier
+    - [X] Check AWS Pricing/Free tier
     - [ ] FamilySearch Available APIs
-    - [ ] Buy Alexa
+    - [X] Buy Alexa
 
-
+      
 * Clock
 #+BEGIN: clocktable :scope file :maxlevel 2
-#+CAPTION: Clock summary at [2018-05-07 Mon 22:54]
+#+CAPTION: Clock summary at [2018-05-08 Tue 19:17]
 | Headline     | Time   |
 |--------------+--------|
-| *Total time* | *0:39* |
+| *Total time* | *0:56* |
 |--------------+--------|
-| Ideas        | 0:39   |
+| Ideas        | 0:56   |
 #+END:
 
