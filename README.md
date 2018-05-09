@@ -1,5 +1,4 @@
-[[file:header.png][Header]]
-
+![Project Logo](/header.png)
 ###### Contributors: Jacob Alldredge and Daniel Craig
 
 ### Summary
