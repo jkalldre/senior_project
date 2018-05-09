@@ -4,18 +4,22 @@
 ### Summary
 This is the senior project repo of Jake Alldredge and Daniel Craig. Our objective is to make and Amazon Alexa skill that interfaces with FamilySearch to collect and upload oral histories via Amazon Echo devices.
 
+## Development Environment/ Tools
+ - IntelliJ IDEA
+ - Java
+ - Node.js
+ - Amazon Echo Dot (2nd Gen)
+ - Amazon Web Services (AWS)
+   - Free for the first year
+   - Free up to 5000 speech requests per month
+   - Lambdas
+     - Event driven code
+   - Kinesis Fire Hose
+ - Family Search APIs
+
 ## Skills
  - Dictation of family history
  - Family memory retrieval and read
-
-## Technology
- - Amazon web services
-   - Free for the first year
-   - Free up to 5000 speech requests per month
- - Lambdas
-   - Event driven code
- - Kinesis Fire Hose
- - Family Search APIs
 
 ## Authentication
  - Link amazon and FamilySearch?
@@ -54,5 +58,5 @@ This is the senior project repo of Jake Alldredge and Daniel Craig. Our objectiv
 | "        | "                 | 0:11 |
 | "        | Workflow          | 0:35 |
 | "        | Environment setup | 0:35 |
-| "        | Cleaned up md     | 0:20 |
-|          | Total             | 2:48 |
+| "        | Cleaned up md     | 0:38 |
+|          | Total             | 2:56 |
