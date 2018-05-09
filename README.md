@@ -32,7 +32,7 @@ and upload oral histories via Amazon Echo devices.
 *** Voice Recognition
 *** Workflow
     :LOGBOOK:
-    CLOCK: [2018-05-09 Wed 10:20]
+    CLOCK: [2018-05-09 Wed 10:20]--[2018-05-09 Wed 11:15] =>  0:55
     :END:
 **** Contact Alexa
 **** Creates Lex Conversation
@@ -50,12 +50,13 @@ and upload oral histories via Amazon Echo devices.
       
 * Clock
 #+BEGIN: clocktable :scope file :maxlevel 2
-#+CAPTION: Clock summary at [2018-05-09 Wed 01:12]
-| Headline     | Time   |
-|--------------+--------|
-| *Total time* | *1:17* |
-|--------------+--------|
-| Ideas        | 1:17   |
+#+CAPTION: Clock summary at [2018-05-09 Wed 11:58]
+| Headline         | Time   |      |
+|------------------+--------+------|
+| *Total time*     | *2:12* |      |
+|------------------+--------+------|
+| Ideas            | 2:12   |      |
+| \_  Alexa Skills |        | 0:55 |
 #+END:
 
 
