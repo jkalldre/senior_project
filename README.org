@@ -16,7 +16,7 @@ Contributors: Jacob Alldredge
 *** Skills
 **** Dictation of family history
 **** Family memory retrieval and read
-**** 
+*** 
 *** Lambdas
 **** event driven code
 *** Kenesis Fire Hose
@@ -24,6 +24,18 @@ Contributors: Jacob Alldredge
 **** Authentication?
 ***** Link amazon and FamilySearch?
 *** Voice Recognition
+*** Workflow
+    :LOGBOOK:
+    CLOCK: [2018-05-09 Wed 10:20]
+    :END:
+**** Contact Alexa
+**** Creates Lex Conversation
+***** \lambda Looks for ancestor
+****** Access FamilySearch w/ API
+***** \lambda Upload
+****** Access FamilySearch w/ API
+***** \lambda Tell me a story about ...
+****** Access FamilySearch w/ API
 *** TODO IMPORANT
     - [X] Check AWS Pricing/Free tier
     - [ ] FamilySearch Available APIs
