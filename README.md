@@ -1,4 +1,4 @@
-![Project Logo](/header.png)
+![Project Logo](images/header.png)
 ###### Contributors: Jacob Alldredge and Daniel Craig
 
 ### Summary
@@ -16,18 +16,28 @@ This is the senior project repo of Jake Alldredge and Daniel Craig. Our objectiv
    - Event driven code
  - Kinesis Fire Hose
  - Family Search APIs
-   - Authentication?
 
-***** Link amazon and FamilySearch?
-*** Voice Recognition
-**** Contact Alexa
-**** Creates Lex Conversation
-***** \lambda Looks for ancestor
-****** Access FamilySearch w/ API
-***** \lambda Upload
-****** Access FamilySearch w/ API
-***** \lambda Tell me a story about ...
-****** Access FamilySearch w/ API
+## Authentication
+ - Link amazon and FamilySearch?
+   - Web application
+
+## Workflow
+ - Contact Alexa
+ - Creates Lex Conversation
+   - lambda Looks for ancestor
+     - Access FamilySearch w/ API
+     - Record oral history
+     - Return control to Lex
+   - lambda Upload
+     - Ask for confirmation
+     - Access FamilySearch w/ API
+     - Save to Memories
+     - Return control to Lex
+   - lambda Tell me a story about [ancestor]
+     - Access FamilySearch w/ API
+     - Access Memories
+     - Read story
+     - Return control to Lex
 
 ### TODO
     - [X] Check AWS Pricing/Free tier
@@ -42,7 +52,7 @@ This is the senior project repo of Jake Alldredge and Daniel Craig. Our objectiv
 | 05/08/18 | "                 | 0:17 |
 | 05/09/18 | "                 | 0:11 |
 | "        | "                 | 0:11 |
-| "        | Workflow          | 0:20 |
+| "        | Workflow          | 0:35 |
 | "        | Environment setup | 0:35 |
-|          |                   |      |
-|          | Total             | 2:13 |
+| "        | Cleaned up md     | 0:20 |
+|          | Total             | 2:48 |
