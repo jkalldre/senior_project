@@ -1,4 +1,4 @@
-![Project Logo](images/header.png)
+![Project Logo](header.png)
 ###### Contributors: Jacob Alldredge and Daniel Craig
 
 ### Summary
