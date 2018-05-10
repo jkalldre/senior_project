@@ -45,13 +45,14 @@ This is the senior project repo of Jake Alldredge and Daniel Craig. Our objectiv
 
 # Clock
 
-| Date     | Description       | Time | PP |
-|----------|-------------------|------|----|
-| 05/07/18 | Ideas             | 0:39 | X  |
-| 05/08/18 | "                 | 0:17 | X  |
-| 05/09/18 | "                 | 0:11 | X  |
-| "        | "                 | 0:11 | X  |
-| "        | Workflow          | 0:35 | X  |
-| "        | Environment setup | 0:35 | X  |
-| "        | Cleaned up md     | 0:38 | X  |
-|          | Total             | 5:52 |    |
+| Date     | Description                | Time | PP |
+|----------|----------------------------|------|----|
+| 05/07/18 | Ideas                      | 0:39 | X  |
+| 05/08/18 | "                          | 0:17 | X  |
+| 05/09/18 | "                          | 0:11 | X  |
+| "        | "                          | 0:11 | X  |
+| "        | Workflow                   | 0:35 | X  |
+| "        | Environment setup          | 0:35 | X  |
+| "        | Cleaned up md              | 0:38 | X  |
+| "        | Structured directories     | 1:32 | X  |
+|          | Total                      | 8:24 |    |
