@@ -43,20 +43,15 @@ This is the senior project repo of Jake Alldredge and Daniel Craig. Our objectiv
      - Read story
      - Return control to Lex
 
-### TODO
-    - [X] Check AWS Pricing/Free tier
-    - [ ] FamilySearch Available APIs
-    - [X] Buy Alexa
-
 # Clock
 
-| Date     | Description       | Time |
-|----------|-------------------|------|
-| 05/07/18 | Ideas             | 0:39 |
-| 05/08/18 | "                 | 0:17 |
-| 05/09/18 | "                 | 0:11 |
-| "        | "                 | 0:11 |
-| "        | Workflow          | 0:35 |
-| "        | Environment setup | 0:35 |
-| "        | Cleaned up md     | 0:38 |
-|          | Total             | 2:56 |
+| Date     | Description       | Time | PP |
+|----------|-------------------|------|----|
+| 05/07/18 | Ideas             | 0:39 | X  |
+| 05/08/18 | "                 | 0:17 | X  |
+| 05/09/18 | "                 | 0:11 | X  |
+| "        | "                 | 0:11 | X  |
+| "        | Workflow          | 0:35 | X  |
+| "        | Environment setup | 0:35 | X  |
+| "        | Cleaned up md     | 0:38 | X  |
+|          | Total             | 5:52 |    |
